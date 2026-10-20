@@ -34,6 +34,8 @@ These days I'm working on **AASDLC**, which lets a team hand production-safe imp
 
 ## What I've built here
 
+[![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fikppramesh&query=%24.public_repos&label=public%20repos&color=c9b58a&style=for-the-badge&logo=github)](https://github.com/ikppramesh?tab=repositories)
+
 ### 🤖 AI, LLMs & voice
 
 | Repo | What it is | Stack |
