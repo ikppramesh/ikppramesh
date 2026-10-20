@@ -2,7 +2,10 @@
 
 **Senior Software Architect & Engineering Team Lead** · Hyderabad, India · [iramesh.com](https://iramesh.com)
 
-I've been building software for 13+ years and leading teams for 4+. Right now I own the architecture for a 17-repo green energy platform (solar, battery storage and EV charging) at **Electrum**, and I'm building **AASDLC**, an AI-augmented engineering lifecycle.
+I've been building software for 13+ years and leading teams for 4+.
+
+- 💼 **Professionally:** I own the architecture for a 17-repo green energy platform (solar, battery storage and EV charging) at **Electrum**, and I'm building **AASDLC**, an AI-augmented engineering lifecycle.
+- 🛠️ **As a personal interest:** I build my own apps, tools and AI models. I currently have **<!-- REPO_COUNT -->39<!-- /REPO_COUNT --> repos** here on GitHub, covering on-device LLMs, voice AI, Android and iOS apps, and web tools.
 
 ## About me
 
