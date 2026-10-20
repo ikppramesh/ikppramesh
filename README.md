@@ -5,7 +5,7 @@
 I've been building software for 13+ years and leading teams for 4+.
 
 - 💼 **Professionally:** I own the architecture for a 17-repo green energy platform (solar, battery storage and EV charging) at **Electrum**, and I'm building **AASDLC**, an AI-augmented engineering lifecycle.
-- 🛠️ **As a personal interest:** I build my own apps, tools and AI models. I currently have **<!-- REPO_COUNT -->39<!-- /REPO_COUNT --> repos** here on GitHub, covering on-device LLMs, voice AI, Android and iOS apps, and web tools.
+- 🛠️ **As a personal interest:** I build my own apps, tools and AI models. I currently have **<!-- REPO_COUNT -->41<!-- /REPO_COUNT --> repos** here on GitHub, covering on-device LLMs, voice AI, Android and iOS apps, and web tools.
 
 ## About me
 
@@ -78,6 +78,8 @@ These days I'm working on **AASDLC**, which lets a team hand production-safe imp
 | [TAPENOVA-IR](https://github.com/ikppramesh/TAPENOVA-IR) | Audio player with a cassette Walkman and a vinyl turntable mode | JavaScript · Web Audio |
 | [LANTV](https://github.com/ikppramesh/LANTV) | Turns local movie folders into always-on TV channels across your LAN, with HLS and an Android app | Node.js · ffmpeg |
 | [tvonline](https://github.com/ikppramesh/tvonline) | Chromecast-style web TV OS with 80+ live channels | React · TypeScript |
+| [irs](https://github.com/ikppramesh/irs) | Indian Rail Search: trains between stations, official IRCTC fares with ₹0 commission, seat availability, live tracking, PNR and station boards | Node.js · Express · RailKit |
+| [Launch-Radar](https://github.com/ikppramesh/Launch-Radar) | Every gadget launched worldwide, logged day by day from ~25 news feeds and deduplicated, refreshed every 3 hours by GitHub Actions · [live](https://ikppramesh.github.io/Launch-Radar/) | JavaScript · GitHub Actions |
 | [brutalcheapflights](https://github.com/ikppramesh/brutalcheapflights) | Zero-commission flight search across 14 sites that flags hidden OTA fees · [live](https://brutalcheapflights.vercel.app) | Node.js · Express |
 | [globetrotter](https://github.com/ikppramesh/globetrotter) | Personal flight log with a live world map, a boarding-pass view of stats, and Flighty CSV import · [live](https://globetrotter-fawn-eight.vercel.app) | JavaScript · Leaflet |
 | [nrihomeorders](https://github.com/ikppramesh/nrihomeorders) | Concierge platform for US-based NRIs to handle India-side bills, fees and orders | TypeScript · full-stack |
