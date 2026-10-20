@@ -44,7 +44,7 @@ These days I'm working on **AASDLC**, which lets a team hand production-safe imp
 | Repo | What it is | Stack |
 | --- | --- | --- |
 | [irx-1](https://github.com/ikppramesh/irx-1) | ~2B-parameter chat model fine-tuned for fast, private, fully offline use; part of the [IRx family](https://huggingface.co/ikppramesh) (3,000+ downloads) | Python · MLX · LoRA · GGUF |
-| [myVoice](https://github.com/ikppramesh/myVoice) | Local instant voice cloning on the open-source Chatterbox model: no account, no upload, multi-voice podcasts · [live](https://myvoice-tau.vercel.app) | Python · Next.js |
+| 🎙️ [myVoice](https://github.com/ikppramesh/myVoice) | Local instant voice cloning on the open-source Chatterbox model: no account, no upload, multi-voice podcasts · **[▶ try it live](https://myvoice-ir.vercel.app/)** | Python · Next.js |
 | [irai](https://github.com/ikppramesh/irai) | 100% offline Android AI assistant: on-device LLM chat, 7-agent pipeline, vision, persistent memory | TypeScript · React Native |
 | [AIIR](https://github.com/ikppramesh/AIIR) | Offline voice note-taker for Telugu, Hindi and English (including code-switching) that produces summaries and action items | Kotlin · on-device AI |
 | [Lexa](https://github.com/ikppramesh/Lexa) | System-wide AI writing tool for macOS and Linux: select text in any app to fix grammar, rewrite or explain | Shell · Python · OpenRouter |
