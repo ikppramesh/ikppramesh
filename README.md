@@ -32,19 +32,62 @@ These days I'm working on **AASDLC**, which lets a team hand production-safe imp
 | **Mobile** | Kotlin, Jetpack Compose, Room, Swift / SwiftUI |
 | **Security** | AES-256-GCM, WAF, secrets rotation, OAuth 2.0 / JWT |
 
-## Selected projects
+## What I've built here
 
-- **[IRJSON](https://irjson.com)**: free, fully client-side JSON toolkit (19 tools) plus a real-time collaborative [Blackboard](https://irjson.com/blackboard/)
-- **[IRx Models](https://huggingface.co/ikppramesh)**: offline chat LLMs fine-tuned on a single Apple Silicon Mac, with 3,000+ downloads on Hugging Face
-- **[irai](https://github.com/ikppramesh/irai)**: 100% offline Android AI assistant with a 7-agent pipeline
-- **[Lexa](https://github.com/ikppramesh/Lexa)**: system-wide AI writing tool for macOS and Linux
-- **[EveryPaisa](https://github.com/ikppramesh/EveryPaisa)**: privacy-first expense tracker that parses bank SMS from 35+ banks, all on-device
-- **[AIIR](https://github.com/ikppramesh/AIIR)**: offline voice note-taker for Telugu, Hindi and English
-- **[RAG MultiDB](https://github.com/ikppramesh/rag_multidb)**: natural-language RAG over SQL, MongoDB and documents
-- **[Game Room](https://github.com/ikppramesh/games)**: peer-to-peer multiplayer browser games over WebRTC
-- **[Stage](https://github.com/ikppramesh/stage)**: browser AI terminal with 16 software-engineering agents
+### 🤖 AI, LLMs & voice
 
-More at **[iramesh.com](https://iramesh.com)**.
+| Repo | What it is | Stack |
+| --- | --- | --- |
+| [irx-1](https://github.com/ikppramesh/irx-1) | ~2B-parameter chat model fine-tuned for fast, private, fully offline use; part of the [IRx family](https://huggingface.co/ikppramesh) (3,000+ downloads) | Python · MLX · LoRA · GGUF |
+| [myVoice](https://github.com/ikppramesh/myVoice) | Local instant voice cloning on the open-source Chatterbox model: no account, no upload, multi-voice podcasts · [live](https://myvoice-tau.vercel.app) | Python · Next.js |
+| [irai](https://github.com/ikppramesh/irai) | 100% offline Android AI assistant: on-device LLM chat, 7-agent pipeline, vision, persistent memory | TypeScript · React Native |
+| [AIIR](https://github.com/ikppramesh/AIIR) | Offline voice note-taker for Telugu, Hindi and English (including code-switching) that produces summaries and action items | Kotlin · on-device AI |
+| [Lexa](https://github.com/ikppramesh/Lexa) | System-wide AI writing tool for macOS and Linux: select text in any app to fix grammar, rewrite or explain | Shell · Python · OpenRouter |
+| [rag_multidb](https://github.com/ikppramesh/rag_multidb) | RAG engine that queries SQL, MongoDB and documents together in natural language | Python · LangChain · FAISS |
+| [stage](https://github.com/ikppramesh/stage) | Browser-based AI terminal with 16 specialised software-engineering agents and a free-tier model cascade | Node.js · multi-agent |
+| [colorise](https://github.com/ikppramesh/colorise) | AI black-and-white to color video restoration built on DDColor, with a web studio and a CLI | Python · DDColor |
+| [buildshortvideos](https://github.com/ikppramesh/buildshortvideos) | Turns a topic into a publish-ready short video: script, footage, voiceover, subtitles and music | Python · AI pipeline |
+| [BOT_RAG_NOTIFY](https://github.com/ikppramesh/BOT_RAG_NOTIFY) | n8n Telegram bot for UPSC mentorship: check-ins, Sheets logging, weekly summaries for 80+ aspirants | n8n · Telegram |
+
+### 📱 Android & iOS
+
+| Repo | What it is | Stack |
+| --- | --- | --- |
+| [EveryPaisa](https://github.com/ikppramesh/EveryPaisa) | Privacy-first expense tracker that parses bank SMS from 35+ banks, supports 30+ currencies, and keeps everything on-device | Kotlin · Compose · Room |
+| [eyemax](https://github.com/ikppramesh/eyemax) | Video player with 11 theatrical and broadcast aspect ratios, switchable live mid-playback | Kotlin · Media3 |
+| [irmax](https://github.com/ikppramesh/irmax) | Camera app for the Galaxy Z Fold7 that shoots in the true 1.43:1 IMAX ratio | Kotlin · Camera2 |
+| [irthrum](https://github.com/ikppramesh/irthrum) | Video player that vibrates in sync with what's on screen and in the audio | Kotlin · haptics |
+| [mcode](https://github.com/ikppramesh/mcode) | Vibrates the hour in Morse code on your phone and Galaxy Watch | Kotlin · Wear OS |
+| [radioPlayer](https://github.com/ikppramesh/radioPlayer) | Player for a personal Icecast/Shoutcast stream on a Raspberry Pi, with live "Now Playing" | Kotlin · Media3 |
+| [smsCleaner](https://github.com/ikppramesh/smsCleaner) | Sorts SMS by type (Finance, OTP, Spam…) and bulk-deletes them | Kotlin |
+| [rectrans](https://github.com/ikppramesh/rectrans) | iOS voice recording and real-time transcription tuned for Indian English | Swift · SwiftUI |
+| [DailyPlanner](https://github.com/ikppramesh/DailyPlanner) | iPad and iPhone planner with tasks, hourly schedule, habits, mood and drawing | Swift · SwiftUI |
+
+### 🌐 Web apps & tools
+
+| Repo | What it is | Stack |
+| --- | --- | --- |
+| [games](https://github.com/ikppramesh/games) | Game Room: peer-to-peer browser games (Hold'em, UNO, Chess, Shuffleboard…), no installs · [play](https://games-liart-theta.vercel.app) | JavaScript · WebRTC |
+| [UNO](https://github.com/ikppramesh/UNO) | UNO Ultimate: 2–10 seats, bots, Flip / No Mercy / Mega Draw modes, themed decks | Node.js · Socket.IO |
+| [ravmix](https://github.com/ikppramesh/ravmix) | Browser DJ controller with a DDJ-FLX4 layout: two decks, MIDI, files stay local · [live](https://ravmix.vercel.app) | JavaScript · Web Audio |
+| [TAPENOVA-IR](https://github.com/ikppramesh/TAPENOVA-IR) | Audio player with a cassette Walkman and a vinyl turntable mode | JavaScript · Web Audio |
+| [LANTV](https://github.com/ikppramesh/LANTV) | Turns local movie folders into always-on TV channels across your LAN, with HLS and an Android app | Node.js · ffmpeg |
+| [tvonline](https://github.com/ikppramesh/tvonline) | Chromecast-style web TV OS with 80+ live channels | React · TypeScript |
+| [brutalcheapflights](https://github.com/ikppramesh/brutalcheapflights) | Zero-commission flight search across 14 sites that flags hidden OTA fees · [live](https://brutalcheapflights.vercel.app) | Node.js · Express |
+| [globetrotter](https://github.com/ikppramesh/globetrotter) | Personal flight log with a live world map, a boarding-pass view of stats, and Flighty CSV import · [live](https://globetrotter-fawn-eight.vercel.app) | JavaScript · Leaflet |
+| [nrihomeorders](https://github.com/ikppramesh/nrihomeorders) | Concierge platform for US-based NRIs to handle India-side bills, fees and orders | TypeScript · full-stack |
+| [iReV](https://github.com/ikppramesh/iReV) | EV cost, time and range calculator for India: 40+ EVs and live charging-station map | HTML · PWA |
+| [whatNext](https://github.com/ikppramesh/whatNext) | Real-time GitHub trending dashboard for AI, Data Science and Data Engineering repos | TypeScript · GitHub API |
+| [mood-cards](https://github.com/ikppramesh/mood-cards) | Interactive Mood Cards: 19 decks, 380 cards · [live](https://moodcards.vercel.app) | HTML · JavaScript |
+| [everything](https://github.com/ikppramesh/everything) | 30+ pitch-ready enterprise solution templates across 11 industries | HTML · CSS · JS |
+
+### 🧰 Utilities
+
+| Repo | What it is | Stack |
+| --- | --- | --- |
+| [heictojpeg](https://github.com/ikppramesh/heictojpeg) | Recursively converts iPhone HEIC photos to JPEG while keeping the folder structure | Python |
+
+Also check out **[IRJSON](https://irjson.com)**, a free, fully client-side JSON toolkit, and more at **[iramesh.com](https://iramesh.com)**.
 
 ## Career
 
