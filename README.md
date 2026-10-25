@@ -5,7 +5,7 @@
 I've been building software for 13+ years and leading teams for 4+.
 
 - 💼 **Professionally:** I own the architecture for a 17-repo green energy platform (solar, battery storage and EV charging) at **Electrum**, and I'm building **AASDLC**, an AI-augmented engineering lifecycle.
-- 🛠️ **As a personal interest:** I build my own apps, tools and AI models. I currently have **<!-- REPO_COUNT -->39<!-- /REPO_COUNT --> repos** here on GitHub, covering on-device LLMs, voice AI, Android and iOS apps, and web tools.
+- 🛠️ **As a personal interest:** I build my own apps, tools and AI models. I currently have **<!-- REPO_COUNT -->45<!-- /REPO_COUNT --> repos** here on GitHub, covering on-device LLMs, voice AI, Android and iOS apps, and web tools.
 
 ## About me
 
@@ -39,6 +39,8 @@ These days I'm working on **AASDLC**, which lets a team hand production-safe imp
 
 [![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fikppramesh&query=%24.public_repos&label=public%20repos&color=c9b58a&style=for-the-badge&logo=github)](https://github.com/ikppramesh?tab=repositories)
 
+🔒 marks a private repo: the code isn't public, but the live app is linked where there is one.
+
 ### 🤖 AI, LLMs & voice
 
 | Repo | What it is | Stack |
@@ -50,6 +52,8 @@ These days I'm working on **AASDLC**, which lets a team hand production-safe imp
 | [AIIR](https://github.com/ikppramesh/AIIR) | Offline voice note-taker for Telugu, Hindi and English (including code-switching) that produces summaries and action items | Kotlin · on-device AI |
 | [Lexa](https://github.com/ikppramesh/Lexa) | System-wide AI writing tool for macOS and Linux: select text in any app to fix grammar, rewrite or explain | Shell · Python · OpenRouter |
 | [rag_multidb](https://github.com/ikppramesh/rag_multidb) | RAG engine that queries SQL, MongoDB and documents together in natural language | Python · LangChain · FAISS |
+| 🔒 [XGAIR](https://github.com/ikppramesh/XGAIR) | MCP server that plugs any GitHub repo into Claude Code, Copilot, Cursor and other AI assistants for structured, context-aware development intelligence | TypeScript · MCP |
+| 🔒 [openclaw](https://github.com/ikppramesh/openclaw) | OpenClaw Studio: chat workspace for all your GitHub repos, running parallel Claude Code sessions on your own Mac and pushing changes straight to GitHub | Next.js · Claude Code |
 | [stage](https://github.com/ikppramesh/stage) | Browser-based AI terminal with 16 specialised software-engineering agents and a free-tier model cascade | Node.js · multi-agent |
 | [colorise](https://github.com/ikppramesh/colorise) | AI black-and-white to color video restoration built on DDColor, with a web studio and a CLI | Python · DDColor |
 | [buildshortvideos](https://github.com/ikppramesh/buildshortvideos) | Turns a topic into a publish-ready short video: script, footage, voiceover, subtitles and music | Python · AI pipeline |
@@ -89,6 +93,9 @@ These days I'm working on **AASDLC**, which lets a team hand production-safe imp
 | [whatNext](https://github.com/ikppramesh/whatNext) | Real-time GitHub trending dashboard for AI, Data Science and Data Engineering repos | TypeScript · GitHub API |
 | [mood-cards](https://github.com/ikppramesh/mood-cards) | Interactive Mood Cards: 19 decks, 380 cards · [live](https://moodcards.vercel.app) | HTML · JavaScript |
 | [hotelwebsite](https://github.com/ikppramesh/hotelwebsite) | Website for a South Indian tiffin and breakfast center in Miyapur, with a full morning menu · [live](https://ikppramesh.github.io/hotelwebsite/) | HTML · Tailwind CSS |
+| 🔒 [foodsnap](https://github.com/ikppramesh/foodsnap) | Snap a photo of your food for calories, macros, vitamins and a health score, plus a daily food log and nearby places to order · [live](https://foodsnap-sigma.vercel.app) | JavaScript · Claude vision |
+| 🔒 [jsonviewer](https://github.com/ikppramesh/jsonviewer) | Free, private, ad-free JSON toolkit that runs entirely in the browser, with VS Code and Chrome/Firefox extensions · [live](https://ikppramesh.github.io/jsonviewer/) | TypeScript · React · Vite |
+| 🔒 [iramesh](https://github.com/ikppramesh/iramesh) | My personal portfolio site · [live](https://iramesh.com) | HTML · Cloudflare Workers |
 | [everything](https://github.com/ikppramesh/everything) | 30+ pitch-ready enterprise solution templates across 11 industries | HTML · CSS · JS |
 
 ### 🧰 Utilities
@@ -96,6 +103,8 @@ These days I'm working on **AASDLC**, which lets a team hand production-safe imp
 | Repo | What it is | Stack |
 | --- | --- | --- |
 | [heictojpeg](https://github.com/ikppramesh/heictojpeg) | Recursively converts iPhone HEIC photos to JPEG while keeping the folder structure | Python |
+| 🔒 [openclaw-studio-sandbox](https://github.com/ikppramesh/openclaw-studio-sandbox) | Playground repo for testing OpenClaw Studio sessions | n/a |
+| [ikppramesh](https://github.com/ikppramesh/ikppramesh) | This profile README | Markdown |
 
 Also check out **[IRJSON](https://irjson.com)**, a free, fully client-side JSON toolkit, and more at **[iramesh.com](https://iramesh.com)**.
 
