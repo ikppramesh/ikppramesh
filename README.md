@@ -5,7 +5,7 @@
 I've been building software for 13+ years and leading teams for 4+.
 
 - 💼 **Professionally:** I own the architecture for a 17-repo green energy platform (solar, battery storage and EV charging) at **Electrum**, and I'm building **AASDLC**, an AI-augmented engineering lifecycle.
-- 🛠️ **As a personal interest:** I build my own apps, tools and AI models. I currently have **<!-- REPO_COUNT -->41<!-- /REPO_COUNT --> repos** here on GitHub, covering on-device LLMs, voice AI, Android and iOS apps, and web tools.
+- 🛠️ **As a personal interest:** I build my own apps, tools and AI models. I currently have **<!-- REPO_COUNT -->39<!-- /REPO_COUNT --> repos** here on GitHub, covering on-device LLMs, voice AI, Android and iOS apps, and web tools.
 
 ## About me
 
@@ -45,6 +45,7 @@ These days I'm working on **AASDLC**, which lets a team hand production-safe imp
 | --- | --- | --- |
 | [irx-1](https://github.com/ikppramesh/irx-1) | ~2B-parameter chat model fine-tuned for fast, private, fully offline use; part of the [IRx family](https://huggingface.co/ikppramesh) (3,000+ downloads) | Python · MLX · LoRA · GGUF |
 | 🎙️ [myVoice](https://github.com/ikppramesh/myVoice) | Local instant voice cloning on the open-source Chatterbox model: no account, no upload, multi-voice podcasts · **[▶ try it live](https://myvoice-ir.vercel.app/)** | Python · Next.js |
+| 🗣️ [nexus](https://github.com/ikppramesh/nexus) | Private Android voice assistant that talks back in your own cloned voice: hands-free chat, read-aloud in any app, system TTS engine and a dictation keyboard, all offline | Kotlin · llama.cpp · sherpa-onnx |
 | [irai](https://github.com/ikppramesh/irai) | 100% offline Android AI assistant: on-device LLM chat, 7-agent pipeline, vision, persistent memory | TypeScript · React Native |
 | [AIIR](https://github.com/ikppramesh/AIIR) | Offline voice note-taker for Telugu, Hindi and English (including code-switching) that produces summaries and action items | Kotlin · on-device AI |
 | [Lexa](https://github.com/ikppramesh/Lexa) | System-wide AI writing tool for macOS and Linux: select text in any app to fix grammar, rewrite or explain | Shell · Python · OpenRouter |
@@ -61,6 +62,7 @@ These days I'm working on **AASDLC**, which lets a team hand production-safe imp
 | [EveryPaisa](https://github.com/ikppramesh/EveryPaisa) | Privacy-first expense tracker that parses bank SMS from 35+ banks, supports 30+ currencies, and keeps everything on-device | Kotlin · Compose · Room |
 | [eyemax](https://github.com/ikppramesh/eyemax) | Video player with 11 theatrical and broadcast aspect ratios, switchable live mid-playback | Kotlin · Media3 |
 | [irmax](https://github.com/ikppramesh/irmax) | Camera app for the Galaxy Z Fold7 that shoots in the true 1.43:1 IMAX ratio | Kotlin · Camera2 |
+| [siphoneFold](https://github.com/ikppramesh/siphoneFold) | Frost Fold: iPhone Duo-style frosted-glass fold animation for the Galaxy Z Fold7 with a custom GPU shader, no root (work in progress) | Java · AGSL shader |
 | [irthrum](https://github.com/ikppramesh/irthrum) | Video player that vibrates in sync with what's on screen and in the audio | Kotlin · haptics |
 | [mcode](https://github.com/ikppramesh/mcode) | Vibrates the hour in Morse code on your phone and Galaxy Watch | Kotlin · Wear OS |
 | [radioPlayer](https://github.com/ikppramesh/radioPlayer) | Player for a personal Icecast/Shoutcast stream on a Raspberry Pi, with live "Now Playing" | Kotlin · Media3 |
@@ -86,6 +88,7 @@ These days I'm working on **AASDLC**, which lets a team hand production-safe imp
 | [iReV](https://github.com/ikppramesh/iReV) | EV cost, time and range calculator for India: 40+ EVs and live charging-station map | HTML · PWA |
 | [whatNext](https://github.com/ikppramesh/whatNext) | Real-time GitHub trending dashboard for AI, Data Science and Data Engineering repos | TypeScript · GitHub API |
 | [mood-cards](https://github.com/ikppramesh/mood-cards) | Interactive Mood Cards: 19 decks, 380 cards · [live](https://moodcards.vercel.app) | HTML · JavaScript |
+| [hotelwebsite](https://github.com/ikppramesh/hotelwebsite) | Website for a South Indian tiffin and breakfast center in Miyapur, with a full morning menu · [live](https://ikppramesh.github.io/hotelwebsite/) | HTML · Tailwind CSS |
 | [everything](https://github.com/ikppramesh/everything) | 30+ pitch-ready enterprise solution templates across 11 industries | HTML · CSS · JS |
 
 ### 🧰 Utilities
