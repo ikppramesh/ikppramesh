@@ -41,6 +41,25 @@ These days I'm working on **AASDLC**, which lets a team hand production-safe imp
 
 🔒 marks a private repo: the code isn't public, but the live app is linked where there is one.
 
+### 🟢 Live projects
+
+Every site I have deployed, with a live uptime badge that refreshes whenever this page loads.
+
+| Project | What it is | Status | Link |
+| --- | --- | --- | --- |
+| **myVoice** | Local voice cloning and multi-voice podcasts | [![myVoice status](https://img.shields.io/website?url=https%3A%2F%2Fmyvoice-ir.vercel.app%2F&up_message=online&down_message=offline&label=status)](https://myvoice-ir.vercel.app/) | [myvoice-ir.vercel.app](https://myvoice-ir.vercel.app/) |
+| **games** | Game Room: peer-to-peer browser games | [![games status](https://img.shields.io/website?url=https%3A%2F%2Fgames-liart-theta.vercel.app&up_message=online&down_message=offline&label=status)](https://games-liart-theta.vercel.app) | [games-liart-theta.vercel.app](https://games-liart-theta.vercel.app) |
+| **ravmix** | Browser DJ controller with MIDI | [![ravmix status](https://img.shields.io/website?url=https%3A%2F%2Fravmix.vercel.app&up_message=online&down_message=offline&label=status)](https://ravmix.vercel.app) | [ravmix.vercel.app](https://ravmix.vercel.app) |
+| **Launch-Radar** | Every gadget launch, refreshed every 3 hours | [![Launch-Radar status](https://img.shields.io/website?url=https%3A%2F%2Fikppramesh.github.io%2FLaunch-Radar%2F&up_message=online&down_message=offline&label=status)](https://ikppramesh.github.io/Launch-Radar/) | [ikppramesh.github.io/Launch-Radar](https://ikppramesh.github.io/Launch-Radar/) |
+| **brutalcheapflights** | Zero-commission flight search | [![brutalcheapflights status](https://img.shields.io/website?url=https%3A%2F%2Fbrutalcheapflights.vercel.app&up_message=online&down_message=offline&label=status)](https://brutalcheapflights.vercel.app) | [brutalcheapflights.vercel.app](https://brutalcheapflights.vercel.app) |
+| **globetrotter** | Personal flight log with a live world map | [![globetrotter status](https://img.shields.io/website?url=https%3A%2F%2Fglobetrotter-fawn-eight.vercel.app&up_message=online&down_message=offline&label=status)](https://globetrotter-fawn-eight.vercel.app) | [globetrotter-fawn-eight.vercel.app](https://globetrotter-fawn-eight.vercel.app) |
+| **mood-cards** | 19 decks, 380 interactive cards | [![mood-cards status](https://img.shields.io/website?url=https%3A%2F%2Fmoodcards.vercel.app&up_message=online&down_message=offline&label=status)](https://moodcards.vercel.app) | [moodcards.vercel.app](https://moodcards.vercel.app) |
+| **hotelwebsite** | South Indian tiffin center website | [![hotelwebsite status](https://img.shields.io/website?url=https%3A%2F%2Fikppramesh.github.io%2Fhotelwebsite%2F&up_message=online&down_message=offline&label=status)](https://ikppramesh.github.io/hotelwebsite/) | [ikppramesh.github.io/hotelwebsite](https://ikppramesh.github.io/hotelwebsite/) |
+| **foodsnap** | Photo-to-nutrition food tracker | [![foodsnap status](https://img.shields.io/website?url=https%3A%2F%2Ffoodsnap-sigma.vercel.app&up_message=online&down_message=offline&label=status)](https://foodsnap-sigma.vercel.app) | [foodsnap-sigma.vercel.app](https://foodsnap-sigma.vercel.app) |
+| **jsonviewer** | Private in-browser JSON toolkit | [![jsonviewer status](https://img.shields.io/website?url=https%3A%2F%2Fikppramesh.github.io%2Fjsonviewer%2F&up_message=online&down_message=offline&label=status)](https://ikppramesh.github.io/jsonviewer/) | [ikppramesh.github.io/jsonviewer](https://ikppramesh.github.io/jsonviewer/) |
+| **iramesh** | Personal portfolio | [![iramesh status](https://img.shields.io/website?url=https%3A%2F%2Firamesh.com&up_message=online&down_message=offline&label=status)](https://iramesh.com) | [iramesh.com](https://iramesh.com) |
+| **IRJSON** | Free client-side JSON toolkit | [![IRJSON status](https://img.shields.io/website?url=https%3A%2F%2Firjson.com&up_message=online&down_message=offline&label=status)](https://irjson.com) | [irjson.com](https://irjson.com) |
+
 ### 🤖 AI, LLMs & voice
 
 | Repo | What it is | Stack |
