@@ -4,7 +4,7 @@
 
 I've been building software for 13+ years and leading teams for 4+.
 
-- 💼 **Professionally:** I own the architecture for a 17-repo green energy platform (solar, battery storage and EV charging) at **Electrum**, and I'm building **AASDLC**, an AI-augmented engineering lifecycle.
+- 💼 **Professionally:** I own the architecture for a 17-repo green energy platform (solar, battery storage and EV charging) at **Electrum**, and I'm building **AISDLC**, an AI-augmented engineering lifecycle.
 - 🛠️ **As a personal interest:** I build my own apps, tools and AI models. I currently have **<!-- REPO_COUNT -->45<!-- /REPO_COUNT --> repos** here on GitHub, covering on-device LLMs, voice AI, Android and iOS apps, and web tools.
 
 ## About me
@@ -15,10 +15,10 @@ The hard problems usually aren't the algorithms. They're API contracts that stil
 
 I've taken products from pilot to production. **PGO**, a PG & hostel platform I architected and built, shipped on Android and iOS, scaled to 350+ cities and went from a ₹20 lakh valuation to a ~₹2 crore sale. I've also taught myself a company's proprietary tooling from scratch when no manual existed yet: SJS at Synactive, which I used to turn legacy C++ SAP screens into single-page JSON apps.
 
-These days I'm working on **AASDLC**, which lets a team hand production-safe implementation work to AI subagents. On the side I build voice AI and on-device LLMs, plus tools I use every day.
+These days I'm working on **AISDLC**, which lets a team hand production-safe implementation work to AI subagents. On the side I build voice AI and on-device LLMs, plus tools I use every day.
 
 - 🔭 **Now:** Team Lead / Sr. Architect at Electrum (team of 6, 100% sprint completion)
-- 🤖 **Building:** AASDLC, offline voice assistants, the [IRx](https://huggingface.co/ikppramesh) family of on-device LLMs
+- 🤖 **Building:** AISDLC, offline voice assistants, the [IRx](https://huggingface.co/ikppramesh) family of on-device LLMs
 - 🧰 **Stack:** Python · PHP / Laravel · TypeScript / React · AWS & GCP · Kotlin
 - 🌍 **Languages:** English · Hindi · Telugu
 - 📫 **Reach me:** [hello@iramesh.com](mailto:hello@iramesh.com)
